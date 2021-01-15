@@ -47,7 +47,7 @@
     text-align: center;
 }
 
-@media(max-width: 321px){
+@media(max-width: 426px){
     .container{
         width: 250px;
         height: 400px;
